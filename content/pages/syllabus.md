@@ -2,6 +2,8 @@
 content_type: page
 description: The course description, course objectives, and grading policy for 11.409
   Institutions of Modern Capitalism.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +30,7 @@ This course will introduce students to a set of analytic tools and conceptual fr
 Audience
 --------
 
-This elective course is primarily aimed at master's and doctoral students in {{% resource_link "517bb982-da12-4cf7-b382-0a5d728e9761" "DUSP" %}}, Political Science, {{% resource_link "747a132d-c95f-4e48-989d-b22b8b1ee240" "SHASS" %}}, and the Sloan School (and is open to cross-registrants from Cambridge/Boston area universities). Undergraduate students are also welcome (with the permission of the instructor). The themes covered in the course are intended to help students who are preparing for theses, first/second year papers and dissertations to generate research questions that are both theoretically well-grounded and have real-world manifestations.
+This elective course is primarily aimed at master's and doctoral students in [DUSP](https://dusp.mit.edu/), Political Science, [SHASS](https://shass.mit.edu/), and the Sloan School (and is open to cross-registrants from Cambridge/Boston area universities). Undergraduate students are also welcome (with the permission of the instructor). The themes covered in the course are intended to help students who are preparing for theses, first/second year papers and dissertations to generate research questions that are both theoretically well-grounded and have real-world manifestations.
 
 Course Materials
 ----------------
@@ -88,7 +90,7 @@ Final paper or project
 MIT Writing Support
 -------------------
 
-The MIT {{% resource_link "73c25674-fa22-4889-8ee3-d73e48e5c4ab" "Writing and Communication Center" %}} \[note: only open to MIT students\] offers free one-on-one professional advice from communication experts. No matter what department or discipline you are in, the WCC helps you think your way more deeply into your topic, and helps you see new implications in your data, research, and ideas. The WCC also helps with non-native speaker issues, from writing and grammar to pronunciation and conversation practice.
+The MIT [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) \[note: only open to MIT students\] offers free one-on-one professional advice from communication experts. No matter what department or discipline you are in, the WCC helps you think your way more deeply into your topic, and helps you see new implications in your data, research, and ideas. The WCC also helps with non-native speaker issues, from writing and grammar to pronunciation and conversation practice.
 
   
 {{< sup "1" >}} The course's {{% resource_link f4b9a3a7-3a80-b52a-8fd6-4f90bdf84558 "Calendar" %}} page also includes a list of optional readings under each weekly heading, and the {{% resource_link 666beec1-3118-ce81-58b0-0abb8000b737 "Bibliography" %}} page lists further additional readings (at the end of the document) that may be of assistance to students’ thesis and dissertation research. I will update the latter over the course of the semester and am happy to work with students to identify additional readings that may be of use in advancing their research interests.

@@ -26,6 +26,7 @@
     "website": "11-409-institutions-of-modern-capitalism-spring-2020"
   },
   "course_title": "Institutions of Modern Capitalism",
+  "hide_download": true,
   "course_description": "This course introduces students to a set of analytic tools and conceptual frameworks through which to assess the origins and evolution of the institutions that constitute modern capitalism. The course takes an inter-disciplinary political economy approach that draws insights from economics, sociology, political science, history, geography, science and technology studies, and law.\n",
   "department_numbers": [
     "11"
@@ -36,6 +37,7 @@
     "content": "ff0e0383-ab1f-c128-6f87-f9aea4342909",
     "website": "11-409-institutions-of-modern-capitalism-spring-2020"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
